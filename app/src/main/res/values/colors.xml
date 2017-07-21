@@ -5,4 +5,6 @@
     <color name="colorAccent">#f21010</color>
     <color name="buttonTextColor">#ffffff</color>
     <color name="buttonBgColor">#ff4400</color>
+    <color name="tabBgColor">#eeeeee</color>
+    <color name="commonBg">#ffffff</color>
 </resources>

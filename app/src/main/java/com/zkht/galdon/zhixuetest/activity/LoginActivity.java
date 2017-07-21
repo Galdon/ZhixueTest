@@ -1,4 +1,4 @@
-package com.zkht.galdon.zhixuetest;
+package com.zkht.galdon.zhixuetest.activity;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -28,8 +28,9 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.zkht.galdon.zhixuetest.R;
 
 import java.util.ArrayList;
 import java.util.List;
